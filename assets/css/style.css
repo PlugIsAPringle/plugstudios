@@ -1,1 +1,17 @@
+.game-section {
+    padding: 40px 20px;
+}
 
+.game-logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.info-box {
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px auto;
+}
